@@ -1,0 +1,16 @@
+{
+  "source": "Unity",
+  "applications": [
+    {
+      "app_key": "application.generated.unity.unity_lion_vr_steamvr_20220810.exe",
+      "launch_type": "url",
+      "url": "steam://launch/",
+      "action_manifest_path": "C:\\KID\\Projects\\Unity\\Unity_Lion_VR_SteamVR_20220810\\Unity_Lion_VR_SteamVR_20220810\\Assets\\StreamingAssets\\SteamVR\\actions.json",
+      "strings": {
+        "en_us": {
+          "name": "Unity_Lion_VR_SteamVR_20220810 [Testing]"
+        }
+      }
+    }
+  ]
+}
