@@ -48,7 +48,6 @@ namespace Valve.VR.InteractionSystem
 			lockedTintColor = Teleport.instance.areaLockedMaterial.GetColor( tintColorId );
 		}
 
-
 		//-------------------------------------------------
 		public override bool ShouldActivate( Vector3 playerPosition )
 		{
